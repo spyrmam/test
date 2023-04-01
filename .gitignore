@@ -14,7 +14,7 @@ ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.Position = UDim2.new(-0.127000004, 0, 0.407999992, 0)
 ImageLabel.Size = UDim2.new(0, 90, 0, 90)
-ImageLabel.Image = "rbxassetid://87162794"
+ImageLabel.Image = "rbxassetid://12007234054"
 
 TextLabel.Parent = ImageLabel
 TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -34,7 +34,7 @@ TextLabel.TextWrapped = true
     local txt = TextLabel
     local btn = TextButton
 
-TextLabel.Text = "Project Ligma by Harkinian & Unverified \n Run scripts live without filthy modules or \n converting! \n Use External program to execute scripts. \n Status: Injected"
+TextLabel.Text = "Project Stigma by ✟_SPYRMAM_YT✟#9935 \n Run scripts live without filthy modules or \n converting! \n Use External program to execute scripts. \n Status: Injected"
 
 wait(0.6)
 img:TweenPosition(UDim2.new(0.465, 20, 0.440, 0), "Out", "Linear", 0.3, false)
